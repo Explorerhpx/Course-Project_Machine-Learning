@@ -6,7 +6,7 @@ Codes are implemented by **MATLAB**
 ## Introduction
 In this project, students are required to explore some regression methods, which include:
 
-1.Linear Regression and Nonlinear Bases
+1.  Linear Regression and Nonlinear Bases
     *  Adding a Bias Variable
     *  Polynomial Basis
 
