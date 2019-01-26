@@ -13,6 +13,7 @@ This project is implemented by Python.
 ## Introduction
 ### Requirement
 This project could be divided into 2 separated tasks:
+
     1.   Classification task: students are required to distinguish the authentic Raphael paintings from these fake paintings;
     2.   Neural Style Transfer task: students  are required to transfer the style of Raphael’s paintings to other photos.
 
