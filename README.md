@@ -9,7 +9,7 @@ Generally speaking, there are 4 Homeworks & 1 Final Project under this repositor
 
 |Index|Name|Task|Model|Language|
 |:--:|:--:|:--:|:--:|:--:|
-|Project 1|Regression|Regression| Linear/Non-Linear Regression <br> Regularization|MATLAB|
+|Project 1|Regression|Regression| Linear/Non-Linear Regression <br> Regularization|R|
 |Project 2|Classification|Classification|k-NN <br> Logistic Regression <br> Naive Bayes <br> SVM|MATLAB|
 |Project 3|Neural Network|Neural Network|Neural Network <br> CNN|MATLAB|
 |Project 4|Data Exploration|Data Exploration|PCA <br> LLE <br> GMM <br> k-means|MATLAB|
